@@ -7,7 +7,7 @@
 # Installation Commands
  1.PIP: To upgrade pip run-
  
-        "python -m pip install --upgrade pip"
+        python -m pip install --upgrade pip
         
  2.Python packages-
  
@@ -18,5 +18,8 @@
         In VScode you can run-
         
         pip install tensorflow numpy pillow
+ 4. For webcam access-
+    
+        pip install opencv-python
 
- 4.API- Replace 'your API key' by fetching your API by signing up at Spoonacular API.
+ 5.API- Replace 'your API key' by fetching your API by signing up at Spoonacular API.
