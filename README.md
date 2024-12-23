@@ -7,8 +7,10 @@
 # Installation Commands
  1.PIP: To upgrade pip run-
         "python -m pip install --upgrade pip"
+        
  2.Python packages-
         pip install numpy requests opencv-python tensorflow
+        
  3.Tensorflow-
         Verify if Tensorflow is installed.
         In VScode you can run-
