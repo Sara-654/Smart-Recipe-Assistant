@@ -5,21 +5,29 @@
  1. Python installation: Make to have Python3 or later installed.
 
 # Installation Commands
- 1.PIP: To upgrade pip run-
- 
-        python -m pip install --upgrade pip
-        
- 2.Python packages-
- 
-        pip install numpy requests opencv-python tensorflow
-        
- 3.Tensorflow-
-        Verify if Tensorflow is installed.
-        In VScode you can run-
-        
-        pip install tensorflow numpy pillow
- 4. For webcam access-
-    
-        pip install opencv-python
 
- 5.API- Replace 'your API key' by fetching your API by signing up at Spoonacular API.
+ 1.For creating virtual environment- Open terminal in VScode
+ 
+        mkdir image_recipe_app
+        cd image_recipe_app
+
+   Create virtual environment-
+   
+        python -m venv venv
+
+   For activating it-
+   
+        .\venv\Scripts\activate
+
+ 2.Install libraries-
+     Open terminal and install-
+
+     pip install tensorflow opencv-python requests numpy
+
+ 3. API Key- Replace 'your API Key' by fetching API by signing up on Spoonacular API.
+
+
+
+
+
+
