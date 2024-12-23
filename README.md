@@ -23,8 +23,10 @@
      Open terminal and install-
 
      pip install tensorflow opencv-python requests numpy
+
      
-3. API Key- Replace 'your API Key' by fetching API by signing up on Spoonacular API.
+3. API Key-
+    Replace 'your API Key' by fetching API by signing up on Spoonacular API.
 
 
 
